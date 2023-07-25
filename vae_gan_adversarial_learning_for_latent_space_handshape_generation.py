@@ -52,7 +52,7 @@ file_download_link = "https://docs.google.com/uc?export=download&id=1lsCyvsaZ2GM
 from google.colab import drive
 drive.mount('/content/drive')
 
-!unzip '/content/drive/My Drive/AML-CW2/ImagesHands.zip' -d '/content/drive/My Drive/AML-CW2/ImagesHands'
+!unzip '/content/drive/My Drive/AML-PJ2/ImagesHands.zip' -d '/content/drive/My Drive/AML-PJ2/ImagesHands'
 
 """# **Dataset and Dataloader**"""
 
